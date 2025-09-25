@@ -18,4 +18,4 @@ A lightweight URL shortening service built with Go and SQLite, demonstrating mod
 - **REST API**: 清潔的 HTTP 端點供程式化存取
 - **錯誤處理**: 適當的錯誤回應與日誌記錄
 
-## Project Structure / 專案結構
+
